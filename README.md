@@ -8,6 +8,7 @@ FOLDERS:
    Cloned from https://github.com/CLiu272/S2GC
 
 Scripts:
+
 a. transfer_clustering.m implements the analysis of the paper (DS-CS model)
 
 b. best_parameters.m finds the best parameters for DS-CS model
