@@ -9,8 +9,13 @@ FOLDERS:
 
 Scripts:
 a. transfer_clustering.m implements the analysis of the paper (DS-CS model)
+
 b. best_parameters.m finds the best parameters for DS-CS model
+
 c. concordance_index.m computes concordance index
+
 d. findBestEnsTree.m fit the best ETM model
+
 e. results-and-explainability.R run the explainability analysis and the rule extraction
+
 f. kmean_clustering_comparison.m performs the naive k-mean clustering
